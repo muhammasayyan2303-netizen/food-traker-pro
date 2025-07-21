@@ -1,2 +1,1 @@
-# food-traker-pro
-fast food service
+# Food Traker Pro
